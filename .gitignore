@@ -386,3 +386,9 @@ pkg.gitcommit
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
+
+# build directory
+build/*
+
+# vscode directory
+.vscode/*
